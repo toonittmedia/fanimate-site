@@ -1,0 +1,3 @@
+Copied from the Fanimate repository (brand/) at b8b6878 by scripts/sync-brand.mjs.
+Do not edit these files here: change them in the Fanimate repository and sync.
+Inter and JetBrains Mono are under the SIL Open Font License (see the *-OFL.txt files).
