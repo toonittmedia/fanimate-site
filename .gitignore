@@ -7,3 +7,4 @@ next-env.d.ts
 .env*.local
 shots/
 .DS_Store
+package-lock.json
